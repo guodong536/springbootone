@@ -1,6 +1,8 @@
 package domian.po;
 public class UserPo {
 
+private Int a=1;
+
     private String name;
 
     private String sex;
